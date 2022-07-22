@@ -1,6 +1,6 @@
 {
   "name": "AG MUSICAL",
-  "logo": "https://telegra.ph/file/4c731f7b6c2ba62f37171.jpg",
+  "logo": "https://telegra.ph/file/71b81ce1023f6d8ea9f62.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/Agunivers/musical",
@@ -33,12 +33,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "NatsukiSupport_Official"
+      "value": "NatsukiSuppor"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "NatsukiMusic"
+      "value": "Ag musical"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
