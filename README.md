@@ -130,6 +130,4 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 EzilaXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of [Natsuki](https://t.me/TheNatsukiBot) users
 
 #### Contribtors
-- [InukaASiTH](https://github.com/InukaAsith):
-- [Rojserbest](http://github.com/rojserbes): 
 - [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
