@@ -1,4 +1,4 @@
-<h1 align="centre">NATSUKI MUSIC🎵</h1>
+<h1 align="centre">AG MUSIC🎵</h1>
 
 ### 𝘼 𝙗𝙤𝙩 𝙩𝙝𝙖𝙩 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙤𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥 𝙖𝙣𝙙 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙑𝙤𝙞𝙘𝙚 𝘾𝙝𝙖𝙩𝙨
 
@@ -14,7 +14,8 @@
     <a href="https://app.codacy.com/manual/sadew451/NatsukiMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/sadew451/NatsukiMusic"> <img src="https://img.shields.io/github/repo-size/sadew451/NatsukiMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/sadew451/NatsukiMusic/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/sadew451/NatsukiMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/sadew451/NatsukiMusic/network/members"> <img src="https://img.shields.io/github/forks/sadew451/NatsukiMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+<a href="https://github.com/sadew451/NatsukiMusic/network/members"> <img src="https://img.shields.
+io/github/forks/sadew451/NatsukiMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
 
 <h2> Features 🔥 </h2>
@@ -35,7 +36,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agunivers/musical)
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Sadew451/NatsukiMusic)
 
